@@ -22,8 +22,8 @@ Only single user in our system, which is the user.
 ---
 - Requirements: When user login first time, user is allowed to enter current job details and get details saved when user click save
 -  Preconditions:  
-i: User has a current job
-ii: No current job details stored previously
+i: User has a current job <br/>
+ii: No current job details stored previously<br/>
 -  Postconditions: Current job details stored, then return to main menu
 - Scenarios: When user first login, user is allowed to enter current job details (if user has one). After user click save, details should be stored and return to main menu. Details of current job consist of:
 i. Title 
