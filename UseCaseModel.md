@@ -41,7 +41,7 @@ ix. Leave time (vacation days and holiday and/or sick leave, as a single overall
 i: User has a current job
 ii: No current job details stored previously
 -  Postconditions: Current job details not stored, the return to main menu
-- Scenarios: When user first login, user is allowed to enter current job details (if user has one). After user click cancel, details should not be stored and return to main menu. Details of current job consist of:
+- Scenarios: When user first login, user is allowed to enter current job details (if user has one). After user click cancel, details should not be stored and return to main menu. Details of current job consist of: <br/>
 i. Title 
 ii. Company 
 iii. Location (entered as city and state) 
